@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ishod3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ishod3.vcxproj -> C:\Users\Teodor\Desktop\ALGEBRA 2\SPA PROJEKT 2 MATEA ŽUVIĆ\spa_projekt2\Debug\Projekt2.exe
